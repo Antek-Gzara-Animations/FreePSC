@@ -1,0 +1,16 @@
+C:\Users\antek\source\repos\FreePSC\FreePSC\bin\Debug\FreePSC.exe.config
+C:\Users\antek\source\repos\FreePSC\FreePSC\bin\Debug\FreePSC.exe
+C:\Users\antek\source\repos\FreePSC\FreePSC\bin\Debug\FreePSC.pdb
+C:\Users\antek\source\repos\FreePSC\FreePSC\obj\Debug\FreePSC.csprojAssemblyReference.cache
+C:\Users\antek\source\repos\FreePSC\FreePSC\obj\Debug\FreePSC.Form1.resources
+C:\Users\antek\source\repos\FreePSC\FreePSC\obj\Debug\FreePSC.Properties.Resources.resources
+C:\Users\antek\source\repos\FreePSC\FreePSC\obj\Debug\FreePSC.csproj.GenerateResource.cache
+C:\Users\antek\source\repos\FreePSC\FreePSC\obj\Debug\FreePSC.csproj.CoreCompileInputs.cache
+C:\Users\antek\source\repos\FreePSC\FreePSC\obj\Debug\FreePSC.exe
+C:\Users\antek\source\repos\FreePSC\FreePSC\obj\Debug\FreePSC.pdb
+C:\Users\antek\source\repos\FreePSC\FreePSC\obj\Debug\FreePSC.Form2.resources
+C:\Users\antek\source\repos\FreePSC\FreePSC\bin\Debug\FreePSC.exe.manifest
+C:\Users\antek\source\repos\FreePSC\FreePSC\bin\Debug\FreePSC.application
+C:\Users\antek\source\repos\FreePSC\FreePSC\obj\Debug\FreePSC.TrustInfo.xml
+C:\Users\antek\source\repos\FreePSC\FreePSC\obj\Debug\FreePSC.exe.manifest
+C:\Users\antek\source\repos\FreePSC\FreePSC\obj\Debug\FreePSC.application
